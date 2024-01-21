@@ -7,6 +7,7 @@ Bike Share Analysis
 
 ## Quick Links:
 ### Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
+### My Linkedin: [Linkedin](https://www.linkedin.com/in/alexandre-ferreira01/)
 
 ## Introduction
 
