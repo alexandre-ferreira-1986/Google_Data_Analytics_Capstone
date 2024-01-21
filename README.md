@@ -193,4 +193,32 @@ To address these crucial findings, we conducted the following analyses using R S
         pivot_wider(names_from = member_casual, values_from = Count_of_rides)
     ~~~
 
+11. The difference in 'ride length' between the two types of users
 
+<p align="center">
+<img width="1080" alt="Capture" src="https://github.com/alexandre-ferreira-1986/Google_Data_Analytics_Capstone/blob/main/images/Average_by_user.png">
+</p>
+
+12. The difference by type of user and day of week
+
+<p align="center">
+<img width="1080" alt="Capture" src="https://github.com/alexandre-ferreira-1986/Google_Data_Analytics_Capstone/blob/main/images/Lin_num_ride.png">
+</p>
+
+
+## Act Phase:
+#### Key takeaways: 
+
+Based on the findings the team and business can apply these insights in several ways::
+
+**1. Targeted Marketing Strategies:** Use the insight about casual riders' longer average ride lengths to develop targeted marketing campaigns focused on leisure and exploration aspects of biking.
+
+**2. Membership Conversion:** Implement strategies to convert casual riders into members by emphasizing the benefits of membership for frequent riders, possibly through loyalty programs or discounts.
+
+**3. Operational Planning:** Adjust bike availability and station services based on the usage patterns throughout the week to efficiently cater to the peak usage times of both member types.
+
+## Conclusions
+
+- Casual riders and members exhibit distinct patterns in their bike usage.
+- Casual riders tend to have longer rides on average, possibly for leisure, while members show more consistent and frequent usage, indicative of regular commuting or routine use.
+- Understanding these differences is crucial for Cyclistic in tailoring their services and marketing strategies to convert casual riders into members and to cater to the distinct needs of both groups.
